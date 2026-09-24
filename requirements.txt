@@ -1,0 +1,2 @@
+# stdlib only — no third-party dependencies.
+# (tiktoken is an optional upgrade for exact token counts; see README.)
